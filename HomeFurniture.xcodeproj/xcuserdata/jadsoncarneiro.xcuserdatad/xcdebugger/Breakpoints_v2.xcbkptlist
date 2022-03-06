@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "98A5AE16-9EF4-4BBC-8703-0360952B59B2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4CB0D94-BAB4-4B97-B2F3-6383820606E1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HouseFurniture/FurnitureDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9774EDF-8C04-4081-B31A-515AF8F68C6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HouseFurniture/FurnitureDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "097A791A-3E9A-4D7E-8432-253CA6CA24C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HouseFurniture/FurnitureDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E68ECCC1-1223-4EA0-BBD4-A0BC1692D7C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HouseFurniture/FurnitureDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "updateView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E68ECCC1-1223-4EA0-BBD4-A0BC1692D7C4 - 3e68593ac41d86fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HomeFurniture.FurnitureDetailViewController.updateView() -&gt; ()"
+                  moduleName = "HomeFurniture"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jadsoncarneiro/Desktop/iOS%20Dev/DevsLopes/Dev/Week7/HomeFurniture/HouseFurniture/FurnitureDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "E68ECCC1-1223-4EA0-BBD4-A0BC1692D7C4 - 3e68593ac41d86fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HomeFurniture.FurnitureDetailViewController.updateView() -&gt; ()"
+                  moduleName = "HomeFurniture"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jadsoncarneiro/Desktop/iOS%20Dev/DevsLopes/Dev/Week7/HomeFurniture/HouseFurniture/FurnitureDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B4BB628-D2A8-4695-B180-0F6F8F83CBA7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HouseFurniture/FurnitureDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "updateView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8B4BB628-D2A8-4695-B180-0F6F8F83CBA7 - 3e68593ac41d86c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HomeFurniture.FurnitureDetailViewController.updateView() -&gt; ()"
+                  moduleName = "HomeFurniture"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jadsoncarneiro/Desktop/iOS%20Dev/DevsLopes/Dev/Week7/HomeFurniture/HouseFurniture/FurnitureDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "8B4BB628-D2A8-4695-B180-0F6F8F83CBA7 - 3e68593ac41d86c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HomeFurniture.FurnitureDetailViewController.updateView() -&gt; ()"
+                  moduleName = "HomeFurniture"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jadsoncarneiro/Desktop/iOS%20Dev/DevsLopes/Dev/Week7/HomeFurniture/HouseFurniture/FurnitureDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
